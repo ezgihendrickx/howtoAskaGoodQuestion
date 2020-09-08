@@ -41,7 +41,7 @@
 
 - Users with 3000 reputation can cast up to 50 close votes per day. When a question reaches 3 close votes, it is marked as being Closed, and will no longer accept answers. 
 
-:see_no_evil: Bad example: [I'm a bad example]( https://stackoverflow.com/questions/63578399/how-can-i-make-my-memory-game-cards-accessible-with-a-keyboard) 
-:alien: follow these instructions to have good one: [onStackOverFlow](https://stackoverflow.com/help/how-to-ask)
+- :see_no_evil: Bad example: [I'm a bad example]( https://stackoverflow.com/questions/63578399/how-can-i-make-my-memory-game-cards-accessible-with-a-keyboard) 
+- :alien: follow these instructions to have good one: [onStackOverFlow](https://stackoverflow.com/help/how-to-ask)
 
 
