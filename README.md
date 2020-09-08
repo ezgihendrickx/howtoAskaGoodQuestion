@@ -1,5 +1,5 @@
 
-# `How do I ask a good question on stack overflow?` :question:
+# `How do I ask a good question on Stack Overflow` :question:
 - Search, and research. ...and keep track of what you find. ...
 - Write a title that summarizes the specific problem. ...
 - Introduce the problem before you post any code. ...
@@ -32,10 +32,10 @@
 - Questions that need additional work or that are not a good fit for this site may be closed by experienced community members. Closed questions cannot be answered, but can be edited to make them eligible for reopening. 
  - If your question is closed, you will receive private feedback on the reason why it was closed.
 
-⋅⋅* Needs details or clarity -
-⋅⋅* Opinion-based
-⋅⋅* Needs more focus
-⋅⋅* Duplicate of...
++ Needs details or clarity -
++ Opinion-based
++ Needs more focus
++ Duplicate of...
 
 #### `Who can close questions?`:japanese_goblin:
 
